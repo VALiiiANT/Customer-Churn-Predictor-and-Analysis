@@ -1,6 +1,5 @@
 
 #  Customer Churn Predictor
-## An Elaborative Rule-Based Approach for Customer Churn Prediction
 
 This project is a sophisticated customer churn prediction project that employs an in-depth, rule-based approach to anticipate and mitigate customer attrition in the telecommunications industry. 
 ## Description
